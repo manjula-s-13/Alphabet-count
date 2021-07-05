@@ -1,5 +1,5 @@
 # Alphabet-count
-Given a file, counts how many words are starting with particular alphabets.
+Given a file, counts how many words are starting with particular alphabet.
 # Working
 User will open a file in read mode, this program will count how many words in the file are starting with which paticular alphabet and outputs the count of the words starting with particular alphabet. 
 # Sample input file
